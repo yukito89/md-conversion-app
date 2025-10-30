@@ -1,0 +1,13 @@
+# Virtual Environment
+.venv/
+
+# Pycache
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Env files
+.env
+local.settings.json
